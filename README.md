@@ -89,10 +89,11 @@ Minha paixão pela tecnologia teve início durante a minha infância, quando fui
 -----
 
 ## User Statistics:
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrieloliveiroa&show_icons=true&count_private=true&hide_border=true&title_color=007BFF&icon_color=007BFF&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Oliveira GitHub stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieloliveiroa&layout=compact&hide_border=true&title_color=007BFF&text_color=007BFF&bg_color=0d1117" />
-</div>
+
+![](https://raw.githubusercontent.com/gabrieloliveiroa/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/gabrieloliveiroa/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/gabrjeloliveiroa/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/gabrieloliveiroa/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ----
 
