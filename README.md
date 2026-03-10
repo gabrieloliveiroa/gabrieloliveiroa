@@ -88,14 +88,12 @@ Minha paixão pela tecnologia teve início durante a minha infância, quando fui
 
 -----
 
+<!-- 
 ## User Statistics:
 
-![](https://raw.githubusercontent.com/gabrieloliveiroa/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/gabrieloliveiroa/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/gabrjeloliveiroa/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/gabrieloliveiroa/github-stats/master/generated/languages.svg#gh-light-mode-only)
+-----
+-->
 
-----
 
 <div>
 <div>
