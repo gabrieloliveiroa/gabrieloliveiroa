@@ -88,17 +88,10 @@ Minha paixão pela tecnologia teve início durante a minha infância, quando fui
 
 -----
 
-<!-- 
-## User Statistics:
-
------
--->
-
-
 <div>
 <div>
 <details>
-<summary><img height="20" alt="GIF" src="https://github.com/gabrieloamr/gabrieloliveiroa/blob/master/img/spotify.gif"/> Gabriel's Spotify Data</summary>
+<summary><img height="20" alt="GIF" src="https://github.com/gabrieloliveiroa/gabrieloliveiroa/blob/master/img/spotify.gif"/> Gabriel's Spotify Data</summary>
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=zahrenz" alt="Data Card for Spotify">
 </details>
 </div>
@@ -111,6 +104,16 @@ Minha paixão pela tecnologia teve início durante a minha infância, quando fui
 <img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=zahrenz&cover_image=true&theme=default"/> &nbsp; &nbsp; 
 <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=zahrenz&count=10"/>
 </div>
+</div>
+
+-----
+
+<img height="20" alt="GIF" src="https://github.com/gabrieloliveiroa/gabrieloliveiroa/blob/master/img/graphic.gif?raw=true"/> GitHub Stats:
+
+<div>
+<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrieloliveiroa&theme=github_dark"/>
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrieloliveiroa&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrieloliveiroa&theme=github_dark"/>
 </div>
 
 -----
