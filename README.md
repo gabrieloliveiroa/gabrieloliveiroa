@@ -87,6 +87,7 @@ Minha paixão pela tecnologia teve início durante a minha infância, quando fui
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 -----
+<!--
 
 <div>
 <div>
@@ -106,6 +107,7 @@ Minha paixão pela tecnologia teve início durante a minha infância, quando fui
 </div>
 </div>
 
+-->
 -----
 
 <img height="20" alt="GIF" src="https://github.com/gabrieloliveiroa/gabrieloliveiroa/blob/master/img/graphic.gif?raw=true"/> GitHub Stats:
