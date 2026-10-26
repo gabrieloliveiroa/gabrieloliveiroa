@@ -108,7 +108,6 @@ Minha paixão pela tecnologia teve início durante a minha infância, quando fui
 </div>
 
 -->
------
 
 <img height="20" alt="GIF" src="https://github.com/gabrieloliveiroa/gabrieloliveiroa/blob/master/img/graphic.gif?raw=true"/> GitHub Stats:
 
