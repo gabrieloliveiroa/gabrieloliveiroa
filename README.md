@@ -1,6 +1,7 @@
-# Gabriel Oliveira
-
-Desenvolvimento de software · Engenharia de Computação no CEFET-MG
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./img/apresentacao-light.svg">
+  <img src="./img/apresentacao-dark.svg" alt="Gabriel Oliveira. Desenvolvimento de software e aplicações web. Engenharia de Computação no CEFET-MG, Belo Horizonte." width="100%">
+</picture>
 
 
 **Portfólio — [gabrieloliveiroa.vercel.app ↗](https://gabrieloliveiroa.vercel.app/)**
