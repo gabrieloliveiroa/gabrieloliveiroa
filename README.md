@@ -6,7 +6,11 @@
 
 **Portfólio — [gabrieloliveiroa.vercel.app ↗](https://gabrieloliveiroa.vercel.app/)**
 
-[LinkedIn](https://www.linkedin.com/in/gabrieloliveiroa/) · [gabrieloliveiraban@gmail.com](mailto:gabrieloliveiraban@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabrieloliveiroa/"><picture><source media="(prefers-color-scheme: light)" srcset="./img/contato-linkedin-light.svg"><img src="./img/contato-linkedin-dark.svg" width="250" alt="LinkedIn · gabrieloliveiroa"></picture></a>
+  <a href="mailto:gabrieloliveiraban@gmail.com"><picture><source media="(prefers-color-scheme: light)" srcset="./img/contato-email-light.svg"><img src="./img/contato-email-dark.svg" width="250" alt="E-mail · gabrieloliveiraban@gmail.com"></picture></a>
+  <a href="https://www.instagram.com/gabrieloliveiroa/"><picture><source media="(prefers-color-scheme: light)" srcset="./img/contato-instagram-light.svg"><img src="./img/contato-instagram-dark.svg" width="250" alt="Instagram · @gabrieloliveiroa"></picture></a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./img/projetos-light.svg">
