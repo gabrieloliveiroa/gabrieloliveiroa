@@ -4,7 +4,12 @@
 </picture>
 
 
-**Portfólio — [gabrieloliveiroa.vercel.app ↗](https://gabrieloliveiroa.vercel.app/)**
+<a href="https://gabrieloliveiroa.vercel.app/">
+  <picture>
+    <source media="(max-width: 620px)" srcset="./img/portfolio-banner-mobile.svg">
+    <img src="./img/portfolio-banner.svg" width="100%" alt="Explorar o portfólio de Gabriel Oliveira em gabrieloliveiroa.vercel.app. Projetos de software, aplicações web e experiências de ensino.">
+  </picture>
+</a>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabrieloliveiroa/"><picture><source media="(prefers-color-scheme: light)" srcset="./img/contato-linkedin-light.svg"><img src="./img/contato-linkedin-dark.svg" width="250" alt="LinkedIn · gabrieloliveiroa"></picture></a>
