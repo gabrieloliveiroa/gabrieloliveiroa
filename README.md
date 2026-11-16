@@ -1,7 +1,7 @@
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./img/apresentacao-light.svg">
-  <img src="./img/apresentacao-dark.svg" alt="Gabriel Oliveira. Desenvolvimento de software e aplicações web. Engenharia de Computação no CEFET-MG, Belo Horizonte." width="100%">
-</picture>
+# Gabriel Oliveira
+
+Desenvolvimento de software · Engenharia de Computação no CEFET-MG
+
 
 **Portfólio — [gabrieloliveiroa.vercel.app ↗](https://gabrieloliveiroa.vercel.app/)**
 
@@ -16,12 +16,14 @@
 
 **Tecnologias** · JavaScript · React · Node.js · SQLite · Java · C
 
-<details>
-<summary>Estatísticas do GitHub</summary>
-<br>
-<img alt="Resumo de contribuições no GitHub" width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrieloliveiroa&amp;theme=github_dark"><br>
-<img alt="Estatísticas do GitHub" width="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrieloliveiroa&amp;theme=github_dark">
-<img alt="Linguagens mais usadas nos repositórios" width="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrieloliveiroa&amp;theme=github_dark">
-</details>
+<img height="20" alt="GIF" src="https://github.com/gabrieloliveiroa/gabrieloliveiroa/blob/master/img/graphic.gif?raw=true"/> GitHub Stats:
 
-<img alt="" width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=44&amp;color=0:233550,100:142032&amp;section=footer&amp;reversal=false">
+<div>
+<img align="right" alt="GitHub Details" width="420px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrieloliveiroa&theme=github_dark"/>
+<img alt="GitHub Stats" width="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrieloliveiroa&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrieloliveiroa&theme=github_dark"/>
+</div>
+
+-----
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0062ff,100:000373&section=footer&reversal=false"/>
