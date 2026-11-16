@@ -1,7 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="244" viewBox="0 0 880 244" role="img" aria-labelledby="title">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="302" viewBox="0 -58 880 302" role="img" aria-labelledby="title">
 <title id="title">Ludos Tech · Arca e Reformix · Site institucional</title><style>text{font-family:Segoe UI,Arial,sans-serif;fill:#1f2328}.muted{fill:#59636e}.mono{font-family:Consolas,monospace;fill:#59636e}</style>
-<rect width="880" height="244" fill="#ffffff"/>
-<path d="M440 0V243M0 243H880" stroke="#d1d9e0"/>
+<rect y="-58" width="880" height="302" fill="#ffffff"/>
+<text x="0" y="-22" font-size="26" font-weight="600">Projetos em destaque</text>
+<path d="M0 0H880M440 0V243M0 243H880" stroke="#d1d9e0"/>
 <svg x="20" y="12" width="154" height="44" viewBox="50 60 535 138"><g fill="none" stroke="#16815D" stroke-width="17" transform="translate(65 88) rotate(-18 54 48)">
     <rect x="5" y="8" width="59" height="34" rx="17" />
     <rect x="39" y="43" width="59" height="34" rx="17" />
