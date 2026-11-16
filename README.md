@@ -15,6 +15,15 @@
   <img src="./img/projetos-dark.svg" alt="Ludos Tech — desenvolvimento do site da marca e do Arca, sistema de gestão comercial com caixa, estoque e vendas, em Node.js e SQLite. Reformix — desenvolvimento do site institucional de manutenção industrial com catálogo de produtos, serviços e galerias, em React, Vite e Tailwind CSS." width="100%">
 </picture>
 
+### Ensino e extensão
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./img/extensao-light.svg">
+  <img src="./img/extensao-dark.svg" alt="Python Para Todos, CEFET-MG, 2025–2026 — Monitor de programação e Scrum Master. Conduzi aulas práticas, apoiei iniciantes, preparei materiais de Python, coordenei sprints e facilitei a comunicação da equipe. COMPET, CEFET-MG, 2026–atual — Membro do PET de Computação. Participo das atividades acadêmicas e de extensão do grupo, com estudo de algoritmos e colaboração em equipe." width="100%">
+</picture>
+
+[Conhecer o Python Para Todos ↗](https://www.dm.cefetmg.br/extensao/python-para-todos-criatividade-e-programacao/) · [Conhecer o COMPET ↗](https://compet.vercel.app/)
+
 **Tecnologias** · JavaScript · React · Node.js · SQLite · Java · C
 
 <img height="20" alt="GIF" src="https://github.com/gabrieloliveiroa/gabrieloliveiroa/blob/master/img/graphic.gif?raw=true"/> GitHub Stats:
