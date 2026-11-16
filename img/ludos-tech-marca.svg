@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="68" viewBox="0 0 240 68" role="img" aria-labelledby="title">
+  <title id="title">Ludos Tech</title>
+  <rect x=".5" y=".5" width="239" height="67" rx="12" fill="#203A32" stroke="#3A6254"/>
+  <svg x="29" y="9" width="182" height="50" viewBox="50 60 535 138">
+    <g fill="none" stroke="#F4DB78" stroke-width="17" transform="translate(65 88) rotate(-18 54 48)">
+    <rect x="5" y="8" width="59" height="34" rx="17" />
+    <rect x="39" y="43" width="59" height="34" rx="17" />
+  </g>
+  <text x="205" y="174" font-family="Trebuchet MS,Arial,sans-serif" font-size="108" font-weight="700" letter-spacing="-6" fill="#F5F8F0">ludos</text>
+  <text x="462" y="174" font-family="Trebuchet MS,Arial,sans-serif" font-size="52" font-weight="600" letter-spacing="-1.4" fill="#F4DB78">tech</text>
+  </svg>
+</svg>
