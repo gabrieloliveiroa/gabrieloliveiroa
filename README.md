@@ -25,6 +25,4 @@
 <img alt="GitHub Top Langs" width="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrieloliveiroa&theme=github_dark"/>
 </div>
 
------
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0062ff,100:000373&section=footer&reversal=false"/>
