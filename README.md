@@ -9,8 +9,8 @@
 [LinkedIn](https://www.linkedin.com/in/gabrieloliveiroa/) · [gabrieloliveiraban@gmail.com](mailto:gabrieloliveiraban@gmail.com)
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="./img/projetos-light.svg">
-  <img src="./img/projetos-dark.svg" alt="Ludos Tech — desenvolvimento do site da marca e do Arca, sistema de gestão comercial com caixa, estoque e vendas, em Node.js e SQLite. Reformix — desenvolvimento do site institucional de manutenção industrial com catálogo de produtos, serviços e galerias, em React, Vite e Tailwind CSS." width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="./img/projetos-ludos-tech-light.svg">
+  <img src="./img/projetos-ludos-tech-dark.svg" alt="Ludos Tech — desenvolvimento do site da marca e do Arca, sistema de gestão comercial com caixa, estoque e vendas, em Node.js e SQLite. Reformix — desenvolvimento do site institucional de manutenção industrial com catálogo de produtos, serviços e galerias, em React, Vite e Tailwind CSS." width="100%">
 </picture>
 
 <a href="https://www.dm.cefetmg.br/extensao/python-para-todos-criatividade-e-programacao/"><picture><source media="(prefers-color-scheme: light)" srcset="./img/python-light.svg"><img src="./img/python-dark.svg" alt="Python Para Todos — Monitor de programação e Scrum Master. Aulas práticas, materiais de Python e coordenação de sprints. Conhecer o projeto." width="50%"></picture></a><a href="https://compet.vercel.app/"><picture><source media="(prefers-color-scheme: light)" srcset="./img/compet-light.svg"><img src="./img/compet-dark.svg" alt="COMPET — Membro do PET de Computação. Atividades acadêmicas e de extensão, estudo de algoritmos e colaboração em equipe. Conhecer o COMPET." width="50%"></picture></a>
