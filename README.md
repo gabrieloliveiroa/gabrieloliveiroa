@@ -1,24 +1,20 @@
-<img src="./img/perfil-banner.svg" alt="Gabriel Oliveira · Desenvolvimento de software" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./img/apresentacao-light.svg">
+  <img src="./img/apresentacao-dark.svg" alt="Gabriel Oliveira. Desenvolvimento de software e aplicações web. Engenharia de Computação no CEFET-MG, Belo Horizonte." width="100%">
+</picture>
 
-Estudante de Engenharia de Computação no CEFET-MG, em Belo Horizonte.
+**Portfólio — [gabrieloliveiroa.vercel.app ↗](https://gabrieloliveiroa.vercel.app/)**
 
-**[Portfólio](https://gabrieloliveiroa.vercel.app/)** · [LinkedIn](https://www.linkedin.com/in/gabrieloliveiroa/) · [E-mail](mailto:gabrieloliveiraban@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/gabrieloliveiroa/) · [gabrieloliveiraban@gmail.com](mailto:gabrieloliveiraban@gmail.com)
 
-## Projetos em destaque
+### Projetos em destaque
 
-### Ludos Tech · Arca
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./img/projetos-light.svg">
+  <img src="./img/projetos-dark.svg" alt="Ludos Tech — desenvolvimento do site da marca e do Arca, sistema de gestão comercial com caixa, estoque e vendas, em Node.js e SQLite. Reformix — desenvolvimento do site institucional de manutenção industrial com catálogo de produtos, serviços e galerias, em React, Vite e Tailwind CSS." width="100%">
+</picture>
 
-<img src="./img/ludos-tech-marca.svg" alt="Logotipo da Ludos Tech" width="240" height="68">
-
-Desenvolvo o site da marca e o **Arca**, sistema de gestão para pequenos comércios com controle de caixa, estoque e vendas.
-
-### Reformix · Site institucional
-
-<img src="./img/reformix-marca.svg" alt="Logotipo da Reformix" width="240" height="68">
-
-Desenvolvi o site institucional da empresa de manutenção industrial, com catálogo de produtos e serviços, filtros e galerias.
-
-**Tecnologias** · JavaScript, React, Node.js, SQLite, Java e C
+**Tecnologias** · JavaScript · React · Node.js · SQLite · Java · C
 
 <details>
 <summary>Estatísticas do GitHub</summary>
